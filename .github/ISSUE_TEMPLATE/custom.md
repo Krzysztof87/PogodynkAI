@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: 'Osiągnięte wyniki modeli'
+about: 'Opis parametrów i wyników użytych do eksperymentu'
 title: ''
 labels: ''
 assignees: ''
